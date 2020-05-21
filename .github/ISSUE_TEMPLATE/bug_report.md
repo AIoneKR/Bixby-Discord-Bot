@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: 버그 신고 양식
-title: BUG
+title: 버그 제목 : 
 labels: ''
 assignees: AIoneKR
 
