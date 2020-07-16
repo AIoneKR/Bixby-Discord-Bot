@@ -1,8 +1,8 @@
-# **Bixby 개인정보 보호 정책**
+# **Team Leo 개인정보 보호 정책**
 
 **ⓒ 2020 AIoneKR. ALL RIGHT RESERVED.**
 
-**최종 갱신 및 효력 발생 날짜 : 2020년 05월 04일**
+**최종 갱신 및 효력 발생 날짜 : 2020년 07월 16일**
 
 > **이 글에 대한 무단 복제 및 2차 가공은 불가능 합니다.**
 
@@ -13,17 +13,19 @@
 
 ****
 
-**서비스를 가입했을 경우 제공되는 정보**
+**서비스를 가입했을 경우 Team Leo에 제공되는 정보**
 
-> ID
+> Discord User ID (디스코드 유저 고유아이디)
 
-> TAG
+> Discord User TAG (디스코드 유저 고유번호)
 
-> 프로필 사진
+> Discord User Name (디스코드 유저 이름)
 
-> 디스코드 가입날짜
+> Discord User Profile picture (디스코드 유저 프로필사진)
 
-> 채팅로그 혹은 명령어 사용로그
+> Discord User 가입날짜 (디스코드 유저 가입날짜)
+
+> Chat log or command log (채팅로그 및 명령어 사용로그)
 
 ****
 
