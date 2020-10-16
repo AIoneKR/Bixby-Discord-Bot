@@ -2,7 +2,7 @@
 
 **ⓒ 2020 AIoneKR. ALL RIGHT RESERVED.**
 
-**최종 갱신 및 효력 발생 날짜 : 2020년 07월 16일**
+**최종 갱신 및 효력 발생 날짜 : 2020년 10월 16일**
 
 > **이 글에 대한 무단 복제 및 2차 가공은 불가능 합니다.**
 
@@ -23,7 +23,7 @@
 
 > Discord User Profile picture (디스코드 유저 프로필사진)
 
-> Discord User 가입날짜 (디스코드 유저 가입날짜)
+> Discord User Join Date (디스코드 유저 가입날짜)
 
 > Chat log or command log (채팅로그 및 명령어 사용로그)
 
