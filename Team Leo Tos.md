@@ -49,7 +49,3 @@ Team Leo를 이용 또는 액세스하는 것은 모두 "서비스"에 해당되
 **6. 봇을 이용해 악용하는 행위.**
 
 ****
-
-> **해당 Tos는 [Discord Tos](https://discordapp.com/terms)를 참고하였음을 알립니다.**
-
-****
